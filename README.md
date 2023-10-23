@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Zev, a freshman at Columbia University in the School of Engineering. 
+
 <!--
 **ZevMM/ZevMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
