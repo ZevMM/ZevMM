@@ -2,6 +2,8 @@
 
 I'm Zev, a sophomore at Columbia University in the School of Engineering. 
 
+Check out my latest project, Witz, a web app for investment portfolio analysis.
+
 <!--
 **ZevMM/ZevMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
