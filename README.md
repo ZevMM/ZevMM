@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Zev, a sophomore at Columbia University in the School of Engineering. 
+I'm Zev, a CS student at Columbia University in the School of Engineering. 
 
 Check out my latest project, Witz, a web app for investment portfolio analysis.
 
